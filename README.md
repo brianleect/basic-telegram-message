@@ -3,8 +3,8 @@ Made to send updates from my bots to my telegram
 
 
 ## Modifiable variables
-Chat_Id is obtained from **@userinfobot** \n
-Token is obtained from **@BotFather**\n
+Chat_Id is obtained from **@userinfobot** \
+Token is obtained from **@BotFather**\
 Add the information into the constants.py file
 
 ## Functions declared
