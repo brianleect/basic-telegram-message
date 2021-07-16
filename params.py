@@ -8,6 +8,7 @@ chat_id = 0 # Insert chatId obtained from @userinfo here
 # Parameters for MULTI_TELE, ignore if just testing simple sending of message
 
 MULTI_TELE_ENABLED = True # Change to false if testing simple test message
+PRINT_DEBUG = True # Set to true to see next incoming interval and time before trigger
 
 start = time.time()
 
