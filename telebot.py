@@ -1,6 +1,6 @@
 # Import telegram library
 import telegram as telegram
-from constants import token,chat_id, MULTI_TELE_ENABLED, multi_tele, PRINT_DEBUG
+from params import token,chat_id, MULTI_TELE_ENABLED, multi_tele, PRINT_DEBUG
 import time
 from time import sleep
 
