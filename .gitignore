@@ -1,1 +1,2 @@
-constants_ignore.py
+constants.py
+*.pyc
